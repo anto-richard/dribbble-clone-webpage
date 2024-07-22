@@ -9,7 +9,7 @@ shots grid has a clean, modern look with white backgrounds, light gray borders, 
 
 ## PROGRAM :
 
-### home.html :
+### index.html :
 
 ```html
 
